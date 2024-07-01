@@ -1,0 +1,1 @@
+Download all the files in a folder and in the same folder create the main file where you will code just add the header file #include "Graph.h" at the start of your main file.It will add all the basic operations on Graphs to your main file.
